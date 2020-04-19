@@ -2,10 +2,10 @@ p {
     margin=top: 50px;
     margin=left: 150px;
     margin=right: 150px;
-    margin=bottom: 50px;
     
     padding: 20px 100px 20px 100px;
     
+    border-radius: 10px;
     background-color: #808080;
     
     text-align: left;
